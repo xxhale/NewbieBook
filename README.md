@@ -1,15 +1,6 @@
-Anykey
+Выберите ветку для выбора нужной категории в репозитории
 
-network_protocols
-windows_linux
-admin_trouble
+Доступны ветки: 
 
-Administrator
-
-network_design
-monitoring
-software/secsoftware
-vpn
-web
-dbms
-os_scripting
+QA-interview - Вопросы для собеседования
+tips_and_trick - Заметки, настройка и эксплуатация разного ПО
