@@ -9,7 +9,7 @@ https://www.youtube.com/@AndreySozykin
         Функции: Передача сырых битов по физическим средам.
         Примеры: Ethernet (физический аспект), USB, Bluetooth.
         
-<div style="color:red; height: 1px; width:100%;"></div>
+    <div style="color:red; height: 1px; width:100%;"></div>
     Канальный уровень (Data Link Layer):
         Функции: Установление и завершение соединений между узлами в одной сети, ошибка обнаружения и коррекции.
         Примеры: Ethernet (канальный аспект), MAC, PPP, HDLC.
